@@ -1,6 +1,6 @@
 [submodule "KSUN"]
 	path = KernelSU-Next
-	url = https://github.com/chickendrop89/KernelSU-Next
+	url = https://github.com/Vitalykrd/KernelSU-Next
     branch = next-susfs
     shallow = true
 [submodule "BBG"]
